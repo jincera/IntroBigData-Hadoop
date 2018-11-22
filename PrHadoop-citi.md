@@ -15,7 +15,7 @@ En esta práctica nos familiarizaremos con una de las arquitecturas para Big Dat
 
 Si está utilizando una VM creada por usted siguiendo las instrucciones del apéndice, tendrá su archivo PEM para poder accederla así como la dirección IP (o el identificador público en el DNS).
 
-De lo contrario, el instructor le indicará dónde se encuentra el archivo PEM que debe utilizar para acceder a la instancia Hadoop en AWS EC2 creada para este curso y la dirección IP correspondiente. **En esta sección, se asumirá que su archivo se llama *itam.pem.* **
+De lo contrario, el instructor le indicará dónde se encuentra el archivo PEM que debe utilizar para acceder a la instancia Hadoop en AWS EC2 creada para este curso y la dirección IP correspondiente. **En esta sección, se asumirá que su archivo se llama *itam.pem.***
 
 En cualquier caso, identifique una carpeta donde almacenará ese archivo, por ejemplo `Cursos/DipDataScience/Hadoop`
 
