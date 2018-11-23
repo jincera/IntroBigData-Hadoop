@@ -139,7 +139,7 @@ for Line in sys.stdin:
         imei,marca,mod,mos, exito,error,fecha,
         hora,mnc,tred,rb,lat,longi,db,
         tasaDn,tasaUp,tasaLoss,delay,jitter =Data
-        print ()"{0}\t{1}".format(mos,1))	
+        print ("{0}\t{1}".format(mos,1))	
 ```
 ```python
 #!/usr/bin/python3
