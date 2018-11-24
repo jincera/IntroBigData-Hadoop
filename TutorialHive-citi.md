@@ -279,7 +279,7 @@ Asimismo, los resultados de los queries pueden apuntar a un archivo HDFS o al si
 En el siguiente ejemplo utilizaremos la cláusula `INSERT` para generar un archivo que contenga sólo los votos del candidato CAND5. *Sustituya `<usuario>` por su nombre de usuario.* La cláusula también puede utilizarse para generar una tabla.
 
 ```bash
-hive>INSERT OVERWRITE LOCAL DIRECTORY '/home/bdusers/<usuario>/votosCAND5'
+hive>INSERT OVERWRITE LOCAL DIRECTORY '/home/hadoop/Prac1/data/votosCAND5'
 >SELECT hora, dist, gen
 >FROM votos
 >WHERE cand='CAND5';
