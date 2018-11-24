@@ -337,7 +337,7 @@ cand                     string
 Vamos a tratar de cargar datos *particionados* en esta tabla a partir del archivo fuente `votación.csv`
 
 ```bash
-hive> LOAD DATA LOCAL INPATH '/home/bduser/root/Repositorio/votacion.csv'
+hive> LOAD DATA LOCAL INPATH '/home/hadoop/Prac1/data/votacion.csv'
     OVERWRITE INTO TABLE votosPart
     partition (cand='CAND4');
 Loading data to table testbd.votospart partition (cand=CAND4)
