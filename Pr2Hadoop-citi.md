@@ -94,7 +94,7 @@ Pr2mOSMap.py  Pr2mOSRed.py
 hdp> cd ../data
 hdp> hdp> wget https://raw.githubusercontent.com/jincera/Test-Repo/master/EncabezadosRegQoS.txt
 
-hdp> hdp> wget https://raw.githubusercontent.com/jincera/Test-Repo/master/EncabezadosRegQoS500k.csv.gz
+hdp> hdp> wget https://raw.githubusercontent.com/jincera/Test-Repo/master/RegQoS500k.csv.gz
 
 
 hdp> ls ~/Practica2/data
