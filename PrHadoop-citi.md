@@ -218,7 +218,7 @@ Este archivo tiene un acumulador para contar el número de ocurrencias de un ope
 **9.-** Nuevamente usaremos los pipes de Linux, para verificar que el Reducer parece hacer su función.  El comando `sort` en la siguiente instrucción ordena la salida de nuestro mapper, imitando la operación *shuffle* de MapReduce en Hadoop.  La salida del sort se toma como entrada para el script *EjReducer.py*.
 
 ```bash
-hdp>  ../data/vottst.csv | ./EjMapper.py | sort | ./EjReducer.py
+hdp>  cat ../data/vottst.csv | ./EjMapper.py | sort | ./EjReducer.py
 CAND1	8
 CAND2	5
 CAND3	17
