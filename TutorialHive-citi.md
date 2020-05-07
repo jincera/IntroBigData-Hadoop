@@ -10,7 +10,7 @@ Este tutorial está basado en material disponible libremente en la web.  Entre l
 
 ### Entregables
 
-La fecha de entrega es el 14 de diciembre a las 23:00.  Se entrega un documento md (o rmd) enviada a jincera@itam.mx con:
+Se entrega un documento md (o rmd) enviada a jincera@itam.mx con:
 
 + Las respuestas a las preguntas en el desarrollo mostrando el script utilizado.
 
